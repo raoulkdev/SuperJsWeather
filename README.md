@@ -1,7 +1,5 @@
 # SuperJsWeather
 
-[Try it!](https://superjsweather.netlify.app/)
-
 SuperJsWeather is a simple and user-friendly web application for checking the current weather in any city. Built as a learning project, it demonstrates how to consume weather APIs and display results in a clean interface.
 
 ![App Screenshot](https://i.imghippo.com/files/QlhM9963rhk.png)
